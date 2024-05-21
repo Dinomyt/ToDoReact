@@ -1,0 +1,20 @@
+.myContainer{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-100%);
+}
+
+
+
+.removeButton {
+  margin-left: 10px;
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.removeButton:hover {
+  text-decoration: underline;
+}
